@@ -11,3 +11,7 @@ StudentOS is a personal university assistant built with Python and Telegram.
 - Encrypted cloud backups
 
 This is a personal, non-commercial project.
+
+## Privacy
+
+[Privacy Policy](privacy.html)
